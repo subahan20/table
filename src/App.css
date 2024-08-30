@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.side-bar{
+    height: 100vh;
+    background-color: beige;
+}
+
+.side-bar1{
+    height: 100vh;
+    width: 20vw;
+    background-color: blueviolet;
+    
+}
+
+.button{
+    height: 30px;
+    width: 150px;
+    float: right;
+    margin-right: 10px;
+}
